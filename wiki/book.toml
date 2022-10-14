@@ -1,0 +1,7 @@
+[book]
+authors = ["sqyyy", "Skienex"]
+language = "en"
+multilingual = true
+src = "src"
+title = "Liquip"
+description = "The Liquip book covers all features of the Liquip-plugin."
