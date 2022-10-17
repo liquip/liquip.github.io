@@ -11,4 +11,4 @@ You can find the source code for our projects at [GitHub](https://github.com/org
 
 The source code for this website can be found [here](https://github.com/liquip/liquip.github.io).
 
-[Liquip-Organization]: https://github.com/jekyll
+[Liquip-Organization]: https://github.com/liquip
