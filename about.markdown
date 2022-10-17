@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Liquip-project is an open-source project aiming to create some cool software. Currently, we are creating plugins for
+[Paper](https://papermc.io). We may create other projects in the future.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find the source code for our projects at [GitHub](https://github.com/orgs/liquip/repositories).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The source code for this website can be found [here](https://github.com/liquip/liquip.github.io).
 
-
-[jekyll-organization]: https://github.com/jekyll
+[Liquip-Organization]: https://github.com/jekyll
