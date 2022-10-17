@@ -1,0 +1,5 @@
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    github: liquip
