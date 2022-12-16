@@ -10,8 +10,6 @@ minima:
   skin: dark
   social_links:
     github: liquip
-plugins:
-  - jekyll-feed
 
 lsi: false
 safe: true
