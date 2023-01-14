@@ -7,7 +7,7 @@
     <link href="style.css" rel="stylesheet">
     <title>Liquip | The official plugin page</title>
 </head>
-<body class="d-flex h-100 text-center text-bg-dark">
+<body class="d-flex h-100 text-center text-bg-dark" onload="onLoad()">
 <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
     <header class="mb-auto">
         <div>
@@ -57,6 +57,10 @@
     </footer>
 </div>
 
-<script src="script.js"></script>
+<script>
+    function onLoad() {
+        location.reload()  
+    }
+</script>
 </body>
 </html>
